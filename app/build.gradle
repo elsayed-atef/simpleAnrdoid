@@ -5,7 +5,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 27
     buildToolsVersion "27.0.3"
-//test
+//test sayed
     defaultConfig {
         applicationId "com.simplemobiletools.calendar"
         minSdkVersion 16
